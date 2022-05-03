@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 88B3-CF36
+
+ Directory of C:\Users\RUPA\Desktop\MyProject
+
+03/05/2022  05:45 PM    <DIR>          .
+03/05/2022  05:45 PM    <DIR>          ..
+03/05/2022  05:45 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)     165,187,584 bytes free
